@@ -12,7 +12,7 @@ I certify that I completed all steps in the lab using my own computer.
 
 ## Known Issues
 
-* In Guess.java, I couldn't figure out
+* In Guess.java, I couldn't figure out how to generate a number from 1 to 11. I was able to do it from 1 to 10 though.
 
 ## Transcripts
 
